@@ -8,13 +8,13 @@
 
 # Kirim Pesan Email
 
-Fitur :
+# Fitur :
 
 - Kirim Pesan Email
 
 Kirim pesan ke email lewat localhost
 
-Apa saja yang perlu disiapkan?
+# Apa saja yang perlu disiapkan?
 
 - Koneksi Internet untuk mengirimkan emailnya ya
 - PHP nya sudah versi 7++
