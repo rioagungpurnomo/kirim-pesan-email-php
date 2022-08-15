@@ -1,4 +1,4 @@
-# PHP Dasar
+Mu# PHP Dasar
 
 # PHP Native
 
@@ -22,7 +22,7 @@ Apa saja yang perlu disiapkan?
 - Menambahkan sandi aplikasi
 - Akses IMAP di pengaturan Gmail sudah aktif
 
-#GMAIL
+# GMAIL
 
 Langsung saja nih kita contohkan dulu untuk aktifkan pengaturannya biar bisa kirim email,
 
