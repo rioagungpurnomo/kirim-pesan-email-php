@@ -1,18 +1,15 @@
-# PHP Dasar
-
-# PHP Native
-
-# PHPMailer
-
-# Form Simpel
-
 # Kirim Pesan Email
+
+- PHP Dasar
+- PHP Native
+- PHPMailer
+- Form Simpel
+
+Kirim pesan ke email lewat localhost
 
 # Fitur :
 
 - Kirim Pesan Email
-
-Kirim pesan ke email lewat localhost
 
 # Apa saja yang perlu disiapkan?
 
