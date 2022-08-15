@@ -9,7 +9,6 @@
 Fitur :
 
 - Kirim Pesan Email
-- Pesan Terkirim
 
 Kirim pesan ke email lewat localhost
 
